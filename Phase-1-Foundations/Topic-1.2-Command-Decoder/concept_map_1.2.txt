@@ -1,0 +1,51 @@
+MINI PROJECT 1.2 — The Command Decoder
+=======================================
+
+What the terminal actually is:
+  A text window where you type instructions directly to the operating
+  system, without any buttons or menus.
+
+Why servers don't have a GUI:
+  A GUI (the visual desktop with windows and icons) uses extra memory
+  and processing power that servers need for their actual work, so
+  servers run text-only to stay fast and lightweight.
+
+The difference between terminal, shell, and command line:
+  Terminal  = the window you type in — just the screen and keyboard
+              interface, like the physical counter at a bank
+  Shell     = the program running inside that window that actually
+              understands your commands and talks to the OS — like
+              the bank teller standing at the counter
+  Command   = the instruction you type and send — like telling the
+              teller "I want to withdraw £50"
+
+The Mayor analogy:
+  The OS is like a mayor who controls the city (the computer).
+  The terminal is like the mayor's direct phone line — no secretary,
+  no hold music, no forms to fill in. You call, the mayor picks up,
+  and your instruction gets acted on immediately.
+
+How AI fits in from day one:
+  Instead of Googling a command I don't know, I can ask Claude or
+  ChatGPT in plain English — "how do I list all files including hidden
+  ones?" — and get the exact command with an explanation of what each
+  part does. Then I understand it, not just copy it.
+
+First commands I know:
+  Command  | What it does (in plain English)
+  ---------|--------------------------------------------------
+  pwd      | Print Working Directory — tells you exactly where
+           | you are in the file system right now
+  ls       | List — shows everything inside your current folder
+  cd       | Change Directory — moves you into a different folder
+  cd ..    | Moves you one folder up (back towards the root)
+  cd ~     | Takes you straight to your home folder from anywhere
+  echo     | Prints whatever text you give it to the screen —
+           | useful for testing and displaying messages in scripts
+  clear    | Clears all the text off the terminal screen so you
+           | get a clean view (your history is not deleted)
+
+One thing that surprised me about the terminal:
+  [Without using the Mouse and graphical, Still we can do anythings just like we do
+ in the GUI. We can even do things faster as compared to GUI. Ex: Creating 5 folder
+in GUI takes much time witht the mouse, But in CLI we can create 5 folders with single command using the mkdir 5 foldernames.]
