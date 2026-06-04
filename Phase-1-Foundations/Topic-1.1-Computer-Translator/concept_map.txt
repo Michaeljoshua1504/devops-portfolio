@@ -1,0 +1,33 @@
+MINI PROJECT 1.1 — The Computer Translator
+==========================================
+
+The Mental Model:
+  Input → Process → Output
+
+Real example I understand:
+  Input:   [We input the mobile number"]
+  Process: [Its process the call]
+  Output:  [We get to talk with that person]
+
+The Three Layers:
+  Hardware  = [Mobile]
+  OS        = [software that run in mobile]
+  App       = [The phone/Dialer App/whatsap]
+
+Why Linux for servers:
+  1.Free - no licence cost
+  2.stable - can run for years without restarting
+  3.Lightweight - no wasted resources on screen or mouse
+  4.Opensource - anyone can inspect and improve it.
+
+The ATM as a computer:
+  Input:   card + PIN
+  Process: bank checks balance, authorises request
+  Output:  cash + receipt
+
+One thing I would explain to a friend:
+  [A computer is basically a super-fast assistant that can't think for itself 
+but is amazing at following orders. It spends its whole life doing just three things: 
+taking what you give it (Input), doing the background math on it (Process), and showing 
+you the final result (Output). If it has a microchip inside—whether it's a microwave or 
+a Tesla—it's just a computer following that exact loop.]
